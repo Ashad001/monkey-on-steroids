@@ -25,6 +25,9 @@ This project is a basic automation script and may not work perfectly in all scen
    ```
 5. Enjoy practicing your typing speed!
 
+# Example
+![alt text](image.png)
+
 ### Contributions
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open an issue or pull request.
 
